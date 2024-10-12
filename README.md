@@ -36,7 +36,7 @@ I have solid foundations in Data Engineering🪖, Data Science🪖, BI & Analyti
 **[IT Service Desk]** — *[OhioUniversity]* | *[Jun 2021 – Dec 2022]*
 
 ### 👨‍💻 Freelancing and Consulting
-*[Worked with three real companies in the imports & exports, metals and sports industry]*
+*[Worked with four real companies in the imports & exports, food, metals and sports industry]*
 
 <!--
 **enzovillafuerte/enzovillafuerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
