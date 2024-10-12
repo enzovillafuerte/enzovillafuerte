@@ -27,7 +27,7 @@ I have solid foundations in Data Engineering🪖, Data Science🪖, BI & Analyti
 
 ---
 
-###  Professional Experience
+### 👔 Professional Experience
 
 **[Business Intelligence Intern]** — *[DJJ/Nucor]* | *[May 2024 – Aug 2024]*
 
@@ -35,7 +35,7 @@ I have solid foundations in Data Engineering🪖, Data Science🪖, BI & Analyti
 
 **[IT Service Desk]** — *[OhioUniversity]* | *[Jun 2021 – Dec 2022]*
 
-###  Freelancing and Consulting
+### 👨‍💻 Freelancing and Consulting
 *[Worked with three real companies in the imports & exports, metals and sports industry]*
 
 <!--
