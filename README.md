@@ -25,14 +25,20 @@ I have solid foundations in Data Engineering🪖, Data Science🪖, BI & Analyti
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <br />
 
+--
+
 ###  Professional Experience
 
 **[Business Intelligence Intern]** — *[DJJ/Nucor]* | *[May 2024 – Aug 2024]*
+
 **[Research Assistant]** — *[OhioUniversity]* | *[Aug 2023 – May 2025]*
+
 **[IT Service Desk]** — *[OhioUniversity]* | *[Jun 2021 – Dec 2022]*
 
 ###  Freelancing and Consulting
-**[Worked with three real companies in the imports & exports, metals and sports industry]**
+*[Worked with three real companies in the imports & exports, metals and sports industry]*
+
+---
 
 ###  Portfolio Projects:
 <!--
