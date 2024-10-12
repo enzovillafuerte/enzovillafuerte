@@ -12,13 +12,13 @@ I have solid foundations in Data Engineering🪖, Data Science🪖, BI & Analyti
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 <img align="left" alt="PowerBi" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" />
 <img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-<img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="https://databricks.com/wp-content/uploads/2021/10/databricks-logo.png" />
+<img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <br />
 
