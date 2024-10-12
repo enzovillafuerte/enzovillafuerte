@@ -9,6 +9,8 @@ A few months later, I changed my major from Civil Engineering👷 to Information
 
 I have solid foundations in Data Engineering🪖, Data Science🪖, BI & Analytics🪖 through my university coursework, professional experience, and portfolio projects (mostly related to my passion: football⚽)
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -23,7 +25,16 @@ I have solid foundations in Data Engineering🪖, Data Science🪖, BI & Analyti
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <br />
 
+###  Professional Experience
 
+**[Business Intelligence Intern]** — *[DJJ/Nucor]* | *[May 2024 – Aug 2024]*
+**[Research Assistant]** — *[OhioUniversity]* | *[Aug 2023 – May 2025]*
+**[IT Service Desk]** — *[OhioUniversity]* | *[Jun 2021 – Dec 2022]*
+
+###  Freelancing and Consulting
+**[Worked with three real companies in the imports & exports, metals and sports industry]**
+
+###  Portfolio Projects:
 <!--
 **enzovillafuerte/enzovillafuerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
