@@ -5,7 +5,7 @@
 
 Back in 2020, I found myself bored amidst the pandemic🦠 and decided to help a friend choose his next college destination. I started pulling data into an Excel sheet manually, following tutorials on youtube📼. It was then that a SQL course ad caught my attention, marking the beggining of this journey💻.
 
-A few months later, I changed my major from Civil Engineering👷 to Information Systems & Analtyics📈, graduated in Dec 2022, and am currently continuing my studies doing my MS in Systems Engineering🧮, expected to graduate in 2025.
+A few months later, I changed my major to Information Systems & Analtyics📈, graduated in Dec 2022, and am currently continuing my studies doing my MS in Systems Engineering🧮, expected to graduate in 2025.
 
 I have solid foundations in Data Engineering🪖, Data Science🪖, BI & Analytics🪖 through my university coursework, professional experience, and portfolio projects (mostly related to my passion: football⚽)
 
