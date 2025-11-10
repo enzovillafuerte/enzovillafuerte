@@ -1,14 +1,5 @@
 # Enzo Villafuerte ⚽
 
-**`M.S Student in Industrial & Systems Engineering`**
-**`Data Engineering | Business Intelligence | Data Science | Analytics`**
-
-Back in 2020, I found myself bored amidst the pandemic and decided to help a friend choose his next college destination. I started pulling data into an Excel sheet manually, following tutorials on youtube📼. It was then that a SQL course ad caught my attention, marking the beggining of this journey💻.
-
-A few months later, I changed my major to Information Systems & Analtyics, graduated in Dec 2022, and am currently continuing my studies doing my MS in Systems Engineering, expected to graduate in 2025.
-
-I have foundations in Data Engineering🪖, Data Science🪖, BI & Analytics🪖 through my university coursework, professional experience, and portfolio projects (mostly related to my passion: football⚽)
-
 ---
 
 ### 🧰 Languages and Tools
@@ -29,9 +20,11 @@ I have foundations in Data Engineering🪖, Data Science🪖, BI & Analytics🪖
 
 ### 👔 Professional Experience
 
+**[Data Engineering Consultant]** — *[Deloitte]* | *[Feb 2026]*
+
 **[Business Intelligence Intern]** — *[DJJ/Nucor]* | *[May 2024 – Aug 2024]*
 
-**[Research Assistant]** — *[OhioUniversity]* | *[Aug 2023 – May 2025]*
+**[Research & Data Assistant]** — *[OhioUniversity]* | *[Aug 2023 – May 2025]*
 
 **[IT Service Desk]** — *[OhioUniversity]* | *[Jun 2021 – Dec 2022]*
 
