@@ -20,7 +20,6 @@
 
 ### 👔 Professional Experience
 
-**[Data Engineering Consultant]** — *[Deloitte]* | *[Feb 2026]*
 
 **[Business Intelligence Intern]** — *[DJJ/Nucor]* | *[May 2024 – Aug 2024]*
 
