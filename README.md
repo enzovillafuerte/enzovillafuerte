@@ -27,7 +27,7 @@
 
 **[IT Service Desk]** — *[OhioUniversity]* | *[Jun 2021 – Dec 2022]*
 
-**[Inventory Management]** — *[Kandle]* | *[May 2022 – Aug 2022]*
+**[Inventory Management Intern]** — *[Kandle]* | *[May 2022 – Aug 2022]*
 
 ### 👨‍💻 Freelancing and Consulting
 *[Worked with four real companies in the imports & exports, food, metals and sports industry]*
