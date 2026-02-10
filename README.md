@@ -21,7 +21,7 @@
 ### 👔 Professional Experience
 
 
-**[Business Intelligence Intern]** — *[DJJ/Nucor]* | *[May 2024 – Aug 2024]*
+**[Business Intelligence Intern]** — *[Nucor]* | *[May 2024 – Aug 2024]*
 
 **[Research & Data Assistant]** — *[OhioUniversity]* | *[Aug 2023 – May 2025]*
 
