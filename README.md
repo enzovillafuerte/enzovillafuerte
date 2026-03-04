@@ -8,7 +8,7 @@ Data Engineer • Analytics • Football Intelligence
 ## 🌍 Where I’ve worked
 
 <p align="center">
-  <img src="assets/world_experience.svg" alt="World map showing my work locations" width="900">
+  <img src="world_experience.svg" alt="World map showing my work locations" width="900">
 </p>
 
 ---
