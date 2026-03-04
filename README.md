@@ -7,9 +7,8 @@ Data Engineer • Analytics • Football Intelligence
 
 ## 🌍 Where I’ve worked
 
-<p align="center">
-  <img src="world-map.svg" alt="World map showing my work locations" width="900">
-</p>
+<img width="1375" height="584" alt="Screenshot 2026-03-04 at 3 07 02 PM" src="https://github.com/user-attachments/assets/77dcbb1e-c14c-47a4-b653-134406de1d00" />
+
 
 ---
 
