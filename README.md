@@ -21,16 +21,16 @@ Data Engineer • Analytics • Football Intelligence
   📍 Lima, Peru • 🗓️ Aug 2025 – May 2026
 
 - **Business Intelligence Intern** — Nucor  
-  📍 United States • 🗓️ May 2024 – Aug 2024
+  📍 Cincinnati, Ohio, United States • 🗓️ May 2024 – Aug 2024
 
-- **Research & Data Assistant** — Ohio University  
+- **Research & Data Assistant** — Russ College of Engineering
   📍 Athens, Ohio, United States • 🗓️ Aug 2023 – May 2025
 
 - **IT Service Desk Specialist** — Ohio University  
   📍 Athens, Ohio, United States • 🗓️ Jun 2021 – Dec 2022
 
 - **Inventory Management Intern** — Kandle Dining Services  
-  📍 Athens, Ohio, United States • 🗓️ May 2022 – Aug 2022
+  📍 New York, New York, United States • 🗓️ May 2022 – Aug 2022
 
 ---
 
@@ -50,16 +50,3 @@ Data Engineer • Analytics • Football Intelligence
 </p>
 
 ---
-
-## 👨‍💻 Freelancing & Consulting
-
-Worked with multiple companies across **imports & exports, food, metals, and sports**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzovillafuerte&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzovillafuerte&layout=compact&theme=tokyonight" height="165">
-</p>
