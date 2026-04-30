@@ -15,15 +15,15 @@ Data Engineer • Analytics • Football Intelligence
 ## 👔 Professional Experience (Locations)
 
 - **Data Engineering Consultant** — Deloitte  
-  📍 Madrid, Spain • 🗓️ May 2026 – Present
+  📍 Madrid, Spain • 🗓️ Jun 2026 – Present
 
 - **Data Engineer** — Sporting Cristal  
-  📍 Lima, Peru • 🗓️ Aug 2025 – May 2026
+  📍 Lima, Peru • 🗓️ Sept 2025 – May 2026
 
 - **Business Intelligence Intern** — Nucor  
   📍 Cincinnati, Ohio, United States • 🗓️ May 2024 – Aug 2024
 
-- **Research & Data Assistant** — Russ College of Engineering
+- **Research & Data Assistant** — Russ College of Engineering  
   📍 Athens, Ohio, United States • 🗓️ Aug 2023 – May 2025
 
 - **IT Service Desk Specialist** — Ohio University  
