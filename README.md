@@ -18,7 +18,7 @@ Data Engineer • Analytics • Football Intelligence
   📍 Madrid, Spain • 🗓️ Jun 2026 – Present
 
 - **Data Engineer** — Sporting Cristal  
-  📍 Lima, Peru • 🗓️ Sept 2025 – May 2026
+  📍 Lima, Peru • 🗓️ Sept 2025 – Jun 2026
 
 - **Business Intelligence Intern** — Nucor  
   📍 Cincinnati, Ohio, United States • 🗓️ May 2024 – Aug 2024
