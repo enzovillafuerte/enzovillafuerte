@@ -1,6 +1,6 @@
 # Enzo Villafuerte ⚽
 
-Data Engineer • Analytics • Football Intelligence  
+Data & AI Engineer • Analytics • Football Intelligence  
 🌍 International experience across **Peru, USA, and Spain**
 
 ---
